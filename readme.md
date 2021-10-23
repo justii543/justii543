@@ -3,7 +3,7 @@
 </a>
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Ramdev.
+I'm Justin.
 </p>
 <p align='center'>For enquiries, reach out @ ramdevcm@gmail.com or over on <a href="https://linkedin.com/ramdevcm">LinkedIn</a>.</p>
 
