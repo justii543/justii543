@@ -5,7 +5,7 @@
 <p align='center'>
 I'm Justin.
 </p>
-<p align='center'>For enquiries, reach out @ ramdevcm@gmail.com or over on <a href="https://linkedin.com/ramdevcm">LinkedIn</a>.</p>
+<p align='center'>For enquiries, reach out @ justinkurian@gmail.com or over on <a href="https://linkedin.com/ramdevcm">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
@@ -13,7 +13,7 @@ I'm Justin.
 ```javascript
 const ramdev = {
     pronouns: "He" | "Him",
-    code: [ "Python", "Java", "C", "C++", "PHP", "Javascript"],
+    code: [ "Python", "Java", "C", "Javascript"],
     askMeAbout: ["web dev", "tech", "app dev", "reliability" ],
     technologies: {
         frontEnd: {
