@@ -22,11 +22,11 @@ const ramdev = {
         mobileApp: {
             native: ["Android Development", "IOS Development"]
         },
-        devOps: ["AWS", "Docker🐳", "K8's", "Terraform", "Ansible"...],
-        databases: ["mongoDB", "MySql"]
+        
+        databases: [ "MySql"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: ["Site Reliability Engineering", "Chaos Engineering" ],
+    currentFocus: ["React-Native"],
     motto: "Do Epic Shit!"
 };
 ```
